@@ -1,0 +1,1 @@
+$(function(){$(document).on("click","[data-public]",function(){layer.open({type:1,title:0,closeBtn:0,move:!1,area:["508px","363px"],content:$("#newHotspt")})})});
